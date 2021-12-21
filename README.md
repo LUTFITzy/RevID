@@ -7,7 +7,7 @@ pkg install python git
 
 pip install requests bs4 futures
 
-https://github.com/LUTFITzy/RevID
+git clone https://github.com/LUTFITzy/RevID
 
 cd RevID
 
