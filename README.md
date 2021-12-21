@@ -11,7 +11,7 @@ git clone https://github.com/LUTFITzy/RevID
 
 cd RevID
 
-python run.py
+python2 run.py
 
 
 # Jika Ada Eroro Bisa Chat Saya Di wa 
